@@ -1,2 +1,2 @@
 # Frontend
-This is for frontend developer
+This is for frontend developer.
